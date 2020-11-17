@@ -13,12 +13,16 @@
 
 }
 .mid{
-    width: 1680px;
-    height: 720px;
+    width: 100%;
+    max-width: 1680px;
+    min-width: 300;
     background-color: gray;
     text-align: center;
 }
 .button{
+    width: 100%;
+    max-width: 50px;
+    min-width: 20px;
     color: black;
     background-color: black;
     border: 0;
@@ -33,6 +37,8 @@
      
 }
 .modeli{
+    width: 100%;
+    min-width: 15%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: left;
     text-shadow: 15px;
@@ -57,8 +63,9 @@ body {
     width: 100%;
   }
   .rposn img {
-    width: 15%;
-    height: 15%;
+    width: 100%;
+    max-width: 83px;
+    min-width: 25px;
     box-sizing: border-box;
     box-sizing: border-box;
     float: left;
