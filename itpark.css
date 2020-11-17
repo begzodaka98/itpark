@@ -1,0 +1,62 @@
+.logotip{
+    width: 200px;
+    text-align: left;
+    color: blanchedalmond;
+}
+.main{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(0, 0, 0);
+    color: rgba(255, 255, 255, 0.767);
+    text-align: left;
+
+}
+.mid{
+    width: 1680px;
+    height: 720px;
+    background-color: gray;
+    text-align: center;
+}
+.button{
+    color: black;
+    background-color: black;
+    border: 0;
+    padding: 0;
+    margin: 0;
+       
+
+}
+.midd{
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.356);
+     
+}
+.modeli{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+.knopka{
+    text-align: center;
+    padding-bottom: 10;
+    margin: 0;
+    border-radius: 15px;
+    border-style: double; 
+}
+.logo{
+    margin-bottom: 30px;
+    margin-left: -28px;
+    margin-inline-end: 1px;
+}
+body {
+    padding: 0px;
+    margin: 0px;
+  }
+  .rposn {
+    width: 100%;
+  }
+  .rposn img {
+    width: 15%;
+    height: 15%;
+    box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+  }
