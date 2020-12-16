@@ -102,7 +102,7 @@ nav {
 
 .photo {
   background-size: cover;
-  background-image: url(/photo-94.jpg);
+  background-image: url(photo-94.jpg);
   width: 50%;
   height: 900px;
   margin-top: 300px;
@@ -136,7 +136,7 @@ nav {
   width: 500px;
   min-height: 800px;
   background-size: cover;
-  background-image: url(/printscreen-01.jpg);
+  background-image: url(printscreen-01.jpg);
 }
 .imgsize2 {
   box-shadow: 1px 1px 20px rgb(226, 225, 225);
@@ -148,14 +148,14 @@ nav {
 }
 .imgsize3 {
   box-shadow: 1px 1px 20px rgb(226, 225, 225);
-  background-image: url(/printscreen-01.jpg);
+  background-image: url(printscreen-01.jpg);
   width: 500px;
   min-height: 800px;
   background-size: cover;
 }
 .imgsize4 {
   box-shadow: 1px 1px 20px rgb(226, 225, 225);
-  background-image: url(/printscreen-02.jpg);
+  background-image: url(printscreen-02.jpg);
   width: 500px;
   min-height: 800px;
   background-size: cover;
@@ -163,14 +163,14 @@ nav {
 }
 .imgsize5 {
   box-shadow: 1px 1px 20px rgb(226, 225, 225);
-  background-image: url(/printscreen-01.jpg);
+  background-image: url(printscreen-01.jpg);
   width: 500px;
   min-height: 800px;
   background-size: cover;
 }
 .imgsize6 {
   box-shadow: 1px 1px 20px rgb(226, 225, 225);
-  background-image: url(/printscreen-02.jpg);
+  background-image: url(printscreen-02.jpg);
   width: 500px;
   min-height: 800px;
   background-size: cover;
